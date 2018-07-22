@@ -1,5 +1,4 @@
 # Tawsyla
-![picture1](https://user-images.githubusercontent.com/17709218/43048164-5891efac-8de3-11e8-97af-7588795badda.png)
 ![start](https://user-images.githubusercontent.com/17709218/43048196-fae9aa56-8de3-11e8-971a-e910402faaf1.png)
 
 ## Introduction
