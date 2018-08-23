@@ -76,7 +76,18 @@ Java,PHP,JSON,XML,SQL,HTML/CSS/Bootstrap,JAVASCRIPT.
 ### Notifications
 ![notification1](https://user-images.githubusercontent.com/17709218/44557080-39d67600-a73d-11e8-9a8e-08009ff9e222.png)
 ![notification2](https://user-images.githubusercontent.com/17709218/44557100-46f36500-a73d-11e8-8281-6d768132d084.png)
-![notification3](<img width="270" alt="notification3" src="https://user-images.githubusercontent.com/17709218/44557139-6d190500-a73d-11e8-88db-9c2c50e3fbdb.png">)
+<img width="270" alt="notification3" src="https://user-images.githubusercontent.com/17709218/44557139-6d190500-a73d-11e8-88db-9c2c50e3fbdb.png">
+
+## Guiding 
+
+### Event_Start_notification
+![eventstart-notify](https://user-images.githubusercontent.com/17709218/44557274-1829be80-a73e-11e8-8725-43e79b116744.png)
+
+### Route
+![mapofevent](https://user-images.githubusercontent.com/17709218/44557292-2b3c8e80-a73e-11e8-87e4-371785c4404a.png)
+![eventout](https://user-images.githubusercontent.com/17709218/44557355-59ba6980-a73e-11e8-89a5-398ff423a17b.png)
+
+
 
 
 
