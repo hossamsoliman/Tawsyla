@@ -55,7 +55,27 @@ Java,PHP,JSON,XML,SQL,HTML/CSS/Bootstrap,JAVASCRIPT.
 ### Menu
 ![menu](https://user-images.githubusercontent.com/17709218/43048225-6baf56aa-8de4-11e8-9260-978c170ef779.png)
 
-### profile
+
 
 ### Create_Event
 ![create_event](https://user-images.githubusercontent.com/17709218/44556642-04308d80-a73b-11e8-9064-fceac9b23f07.png)
+
+### Edit_Event
+![edit_event](https://user-images.githubusercontent.com/17709218/44556940-6dfd6700-a73c-11e8-82d1-74c8279985cb.png)
+![edit](https://user-images.githubusercontent.com/17709218/44556835-d6981400-a73b-11e8-8c6c-52c0f5be83ba.png)
+
+### Delete_Event
+![delete_event](https://user-images.githubusercontent.com/17709218/44556877-12cb7480-a73c-11e8-8d4c-c084863a9111.png)
+![delete](https://user-images.githubusercontent.com/17709218/44556907-45756d00-a73c-11e8-8333-50c352563077.png)
+
+###Join_Event
+![join_event](https://user-images.githubusercontent.com/17709218/44557002-c92f5980-a73c-11e8-8323-6c33936d7672.png)
+![search](https://user-images.githubusercontent.com/17709218/44556979-b0bf3f00-a73c-11e8-9ca7-9aaf6bc222a0.png)
+![search_data](https://user-images.githubusercontent.com/17709218/44557023-e532fb00-a73c-11e8-81db-278935355837.png)
+
+
+
+
+
+
+
