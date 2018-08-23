@@ -73,7 +73,10 @@ Java,PHP,JSON,XML,SQL,HTML/CSS/Bootstrap,JAVASCRIPT.
 ![search](https://user-images.githubusercontent.com/17709218/44556979-b0bf3f00-a73c-11e8-9ca7-9aaf6bc222a0.png)
 ![search_data](https://user-images.githubusercontent.com/17709218/44557023-e532fb00-a73c-11e8-81db-278935355837.png)
 
-
+### Notifications
+![notification1](https://user-images.githubusercontent.com/17709218/44557080-39d67600-a73d-11e8-9a8e-08009ff9e222.png)
+![notification2](https://user-images.githubusercontent.com/17709218/44557100-46f36500-a73d-11e8-8281-6d768132d084.png)
+<img width="270" alt="notification3" src="https://user-images.githubusercontent.com/17709218/44557139-6d190500-a73d-11e8-88db-9c2c50e3fbdb.png">
 
 
 
